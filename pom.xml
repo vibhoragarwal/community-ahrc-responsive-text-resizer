@@ -85,8 +85,8 @@
   <name>AHRC Responsive Text Resizer</name>
   <description>This is the custom module (AHRC Responsive Text Resizer) for running on a Digital Factory server.</description>
   <scm>
-    <connection>scm:dummy:uri</connection>
-    <developerConnection>scm:dummy:uri</developerConnection>
+    <connection>scm:git:git@github.com:vibhoragarwal/community-ahrc-responsive-text-resizer.git</connection>
+    <developerConnection>scm:git:git@github.com:vibhoragarwal/community-ahrc-responsive-text-resizer.git</developerConnection>
   </scm>
   <repositories>
     <repository>
